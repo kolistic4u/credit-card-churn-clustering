@@ -13,7 +13,7 @@ This capstone project explores unsupervised machine learning techniques on a **C
 ---
 
 ## 📂 Repository Structure
-* `group_15_capstone (1).ipynb` — Main Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), K-Means modeling, cluster profiling, and persona extraction.
+* `group_15_capstone.ipynb` — Main Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), K-Means modeling, cluster profiling, and persona extraction.
 
 ---
 
